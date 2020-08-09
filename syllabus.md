@@ -5,8 +5,16 @@ permalink: /syllabus/index.html
 
 # Art of the Web (DSGN 234)<br/>Syllabus
 <br/>
-<p>
-  In this introductory digital design class, we’ll unpack the history of the internet and develop a framework for crafting memorable interactive experiences. We’ll start with a close study of the evolution of the internet – it’s origins as a read-only experience to the highly visual and expansive network of today. We’ll dissect the social conditions and cultures created online and consider the changing responsibilities of the online space. The idea of <a href="../assets/images/scrollig-too-far_whistelgraph.mp4" target="blank">“scrolling too far”</a> and research are important aspects of the class and we’ll facilitate an environment that encourages outside interests, experimentation, and learning to teach yourself. We’ll continually address the metaphor <a href="http://www--arc.com/" target="blank">web design as architecture</a>.</p>
+<p style="clear: both;">
+  <video width="100" controls style="float: left;" class="syllabus-img">
+    <source src="../assets/images/scrollig-too-far_whistelgraph.mp4" type="video/mp4">
+  </video>
+
+  In this introductory digital design class, we’ll unpack the history of the internet and develop a framework for crafting memorable interactive experiences. We’ll start with a close study of the evolution of the internet – it’s origins as a read-only experience to the highly visual and expansive network of today. We’ll dissect the social conditions and cultures created online and consider the changing responsibilities of the online space. The idea of <a href="../assets/images/scrollig-too-far_whistelgraph.mp4" target="blank">“scrolling too far”</a>
+
+   and research are important aspects of the class and we’ll facilitate an environment that encourages outside interests, experimentation, and learning to teach yourself. We’ll continually address the metaphor <a href="http://www--arc.com/" target="blank">web design as architecture</a>.
+</p>
+While we&rsquo;ll explore developing content and tools for publishing online, it&rsquo;s important to note that this is not a computer science course. Everything we explore will be done through the lens of graphic design, visual culture, and critical thinking.
 
 ### Class Homepage
 
@@ -16,6 +24,10 @@ art20.labud.nyc
 
 Nika Simovich Fisher<br/>
 nika@labud.nyc
+
+### Objectives
+This course aims to familiarize students with the practice of graphic design across digital platforms, to develop an understanding of the evolution of the internet and its impact on visual culture, to understand the process of completing a project from research to presentation, and to acquaint them with the necessary design tools for a modern workflow. In this class, you&rsquo;ll learn to think critically about your own work and the world it exists in. You&rsquo;ll learn to develop your own research interests and a methodology of making graphic design.
+
 
 
 ### Units
@@ -37,22 +49,47 @@ nika@labud.nyc
 - Accessibility — what does this mean and how can you maintain a visual point of view without isolating audiences? When do you choose who the audience is?
 - Decentralized web
 
+### Students Will Be Assessed On Three Primary Items:
+
+1. Research and process: Students are expected to develop their projects through research and experimentation. Students should develop an independent habit of organizing themes and visual references and develop a personal library. Rather than landing on one idea right away, students are encouraged to experiment through form, typography, and content.
+2. Presentation: Each project will end in a final critique and have presentation check ins throughout. Students should always be prepared to discuss their ideas and have an organized and visual presentation ready to go at the start of class.
+3. Critique: Attendance to critiques is mandatory, and students are expected to actively contribute during their and their peers' presentations.
+
+
 
 ### Code of Conduct + Group Agreement
 
-As a class, we will create a group agreement that addresses respect and etiquette in the classroom. Students will be responsible for maintaining this standard throughout the semester. Rutgers is very lucky to have a representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in the classroom and beyond.
+As a class, we will create a group agreement that addresses respect and etiquette in the classroom. Students will be responsible for maintaining this standard throughout the semester. The University of Pennsylvania has a unique, representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in the classroom and beyond.
+
+### Distanced Learning Guidelines
+<br/>
+<p style="clear: both;">
+<img src="../assets/images/zenon.jpg" width="250px" class="syllabus-img">
+
+Due to the COVID-19 situation, this class will be online for the entire duration of the Fall 2020 semester. We will incorporate both synchronous and asynchronous learning methods and utilize a variety of tools to help create a community in the virtual classroom. Aside from group critiques and guest lectures, we will typically avoid Zoom sessions that last over an hour. That being said, we should adopt a few rules for when we do meet on Zoom:
+</p>
+- When possible, aim to be in a quiet, well lit room.
+- Utilize Zoom backgrounds if that makes you more comfortable.
+- Keep your video on unless we’re having a work session, in which case you should follow directions provided at that session.
+- Come to class as though you would in person (I.E wear appropriate clothing)
+- Use the “Mute” button when you’re not presenting and remember to unmute yourself when you want to speak.
+- Use “Do Not Disturb” when presenting to avoid sharing your text messages
+
 
 ### Project Critiques
 
-Each project will close in a group critique. All students in class are encouraged to participate in these reviews and discussions. Two student peers will have active roles in each critique: (1) first responder and (2) note taker. The first responder will summarize/reframe the presenter’s project and provide initial feedback. The note taker will write down the group comments and write a digestible overview, to be given to the presenter and instructor by the end of the presentation day. All students should participate in each discussion and provide feedback in the form of a neutral observation or value judgment. Please be respectful—our full attention will be given to the presenter and, excluding the note taker, all laptops and mobile devices should be closed.
+Every project will end in a critique. All students in class are required to participate in these reviews and discussions and missing a critique for any reason prevents you from getting full credit on the project. During the critique, two student peers will have active roles in each critique:
+- The First Responder – The first responder will summarize/reframe the presenter’s project and provide initial feedback.
+- The Note Taker – The note taker will write down the group comments and write a digestible overview, which will be shared on a public document as a class resource. All students should participate in each discussion and provide feedback in the form of a neutral observation or value judgment. Please be respectful — our full attention will be given to the presenter.
 
 ### Reading Responses
 
-Each project will include a selection of readings and references that will be assigned on a weekly basis. You will be required to write a response and three discussion questions, to be completed by midnight before class. You will also be asked to explore similar works, post them on the weekly doc, and discuss them in class.
+Throughout the semester we&rsquo;ll have assigned readings to compliment themes and projects in the class. For each reading, we&rsquo;ll have an assigned discussion leader who will create a short presentation on the themes of the reading – please note, this is a design class, and the presentation should be both visual and informative. All other students are assigned the task of discussion participants and will provide a question or comment on a shared Dropbox Paper document prior to the start of class.
 
 ### Tools + Materials
 
-Most of the hardware and the software which are going to be used in class will be provided and be ready in the classroom in class hours. On the other hand, we strongly recommend that you have your own computer at home equipped with relevant software for practice and execution of the assignments. Some of the assignments will require higher processing speeds, so please prepare yourself to work in the lab at school throughout the semester. You may attend the class with your laptop, but you will be responsible for your own workflow and troubleshooting. You are also be responsible for their own files, making sure to back them up in some way.
+- Adobe Suite
+- [Sketch](https://www.sketch.com/) or [Figma](https://www.figma.com/)
 
 ### Class Sessions
 
@@ -66,26 +103,6 @@ Each meeting will include one or more of the following:
 6. group exercises
 7. in-class studio time
 8. guest lectures
-Assessment
-
-### Students Will Be Assessed On Five Primary Items:
-
-1. Process: We expect students to engage in research, sketch ideas, pursue multiple ideas, and experiment widely with concept, imagery, type, materials and composition.
-2. Documentation: At the end of the semester, students will publish a video documentary of the work throughout the semester. This video will include screencasts, live action footage and talking heads.
-3. Presentation: Project presentations will be made on the due date of the assignment in the classroom.
-4. Critique: Student contribution to these open panel/critique sessions is required.
-5. Archive: At the end of the term, you are required to send me an archival .zip file to document your projects.
-
-
-### Goals + Learning Outcomes
-
-- understand the web as its own public space
-- understand design principles unique to dynamic media
-- be familiar with a range of contemporary art and design practices online
-- follow technological advancements and tools
-- design, develop, and build a digital publication project from scratch
-- have complete, well-documented online projects of their very own
-- learn how to give constructive feedback for their peers
 
 
 ### Attendance
@@ -94,44 +111,20 @@ Attendance is required. Students are expected to be on time and remain in class 
 
 ### Late Work
 
-- Project: Every day a project is late it goes down one letter grade.
+- Project: Projects that are not presented at the critique can not receive full credit. If you miss the critique, your project will be one full letter grade down from its deserved score.
 - Reading questions: Late reading questions will not be accepted.
 
 ### Grading
-Grading of each project will be made in critique sessions with the participation of the students. Coursework, attendance and reading responses will be tracked and evaluated by the instructor.
+Final grades will be based on in-class participation, the originality and timely completion of projects, and the quality of in-class presentations:
 
-1. 10% : Coursework, attendance, and reading responses
-2. 30% : Project 1
-3. 30% : Project 2
-4. 30% : Project 3
-
-- A = Outstanding performance throughout the course, work excels consistently in all the areas described above
-- B = Exceeding basic expectations for all projects
-- C = Satisfactory performance, that is, the completion of all assignments on time and at an acceptable level
-- D = Poor work
-- F = Failure. Please note that a C grade means you have attended all classes and met satisfactorily the requirements of the course.
-
-To earn a higher grade, you must show not only more effort but also a higher level of achievement in your work.
-There is no guarantee that extra effort will yield outstanding work; and yet it is extremely unlikely that without extra effort you will create interesting work or develop as a designer. We cannot rely on inspiration, so we must be diligent.
+- A — exceptional work that reaches beyond the expectations of the course, a high level of participation, lucid articulation of concept and process, and zero unexcused absences
+- B — strong work and participation, competent presentations, some absences or room for improvement
+- C — acceptable fulfillment of the course expectations without any evidence of exceptional effort
+- D — failure to complete all assignments, weak participation or in-class presentations, unexcused absences
 
 ### Project Revision
-You will have the option to revise and enhance two projects during the semester, as long as they were turned in on time. To get an upgrade you should keep working on your project after the deadline and presentation. All project revisions are due during the final reading week of the semester. Once you make your changes and you would like me to reassess your project for a new grade, please notify me.
+Participation in group critiques is an essential part of the class. Even if you&rsquo;re not happy with your project, present it to the best of your ability and describe what your next steps are. As long as your project was turned in on time, you can resubmit it by the end of the semester for a different grade. To get an upgrade you should keep working on your project after the deadline and presentation and email me as soon as you have an update. All project revisions are due during the final reading week of the semester.
 
-### Disability Services
-There is a range of services offered through Rutgers Office of Disability Services, including Counseling and Psychiatric Services (CAPS), career services, and classroom accessibility. Please visit ods.rutgers.edu for more information
-University of Pennsylvania welcomes students with disabilities into all of the University's educational programs. In order to receive consideration for reasonable accommodations, a student with a disability must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: ods.rutgers.edu/students/documentation-guidelines. If the documentation supports your request for reasonable accommodations, your campus’s disability services office will provide you with a Letter of Accommodations. Please share this letter with your instructors and discuss the accommodations with them as early in your courses as possible. To begin this process, please complete the Registration form on the ODS web site at: ods.rutgers.edu/students/registration-form.
 
 ### Academic Integrity
-Principles of academic integrity require that every University of Pennsylvania student:
-- properly acknowledge and cite all use of the ideas, results, or words of others.
-- properly acknowledge all contributors to a given piece of work.
-- make sure that all work submitted as his or her own in a course or other academic activity is produced without the aid of unsanctioned materials or unsanctioned collaboration.
-- obtain all data or results by ethical means and report them accurately without suppressing any results inconsistent with his or her interpretation or conclusions
-- treat all other students in an ethical manner, respecting their integrity and right to pursue their educational goals without interference. This requires that a student neither facilitate academic dishonesty by others nor obstruct their academic progress.
-- uphold the canons of the ethical or professional code of the profession for which he or she is preparing.
-Adherence to these principles is necessary in order to insure that:
-- everyone is given proper credit for his or her ideas, words, results, and other scholarly accomplishments.
-- all student work is fairly evaluated and no student has an inappropriate advantage over others.
-- the academic and ethical development of all students is fostered.
-- the reputation of the University for integrity in its teaching, research, and scholarship is maintained and enhanced.
-Failure to uphold these principles of academic integrity threatens both the reputation of the University and the value of the degrees awarded to its students. Every member of the University community therefore bears a responsibility for ensuring that the highest standards of academic integrity are upheld.
+Please familiarize yourself with the <a href="https://catalog.upenn.edu/pennbook/code-of-academic-integrity">University Code of Academic Integrity</a>.

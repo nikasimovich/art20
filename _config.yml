@@ -31,7 +31,7 @@ navigation:
   - Agenda: /agenda
   - Projects: /projects
   - Readings: /readings
-  - Students: /students
+  # - Students: /students
   - Information: /info
   - Syllabus: /syllabus
   - Resources: /resources
