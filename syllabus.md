@@ -59,7 +59,7 @@ This course aims to familiarize students with the practice of graphic design acr
 
 ### Code of Conduct + Group Agreement
 
-As a class, we will create a group agreement that addresses respect and etiquette in the classroom. Students will be responsible for maintaining this standard throughout the semester. The University of Pennsylvania has a unique, representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in the classroom and beyond.
+As a class, we will draft a communal agreement that sets guidelines for respect and etiquette in the classroom. Students are responsible for maintaining this standard throughout the semester. The University of Pennsylvania has a unique, representative group of students with different backgrounds and cultures. With this comes varying amounts of privilege and awareness, so it is important that we practice patience and empathy in the classroom. We must all continuously learn, be open to criticism, develop a consciousness about these discrepancies, and actively seeking equity and allyship in and outside of the classroom.
 
 ### Distanced Learning Guidelines
 <br/>
@@ -79,8 +79,8 @@ Due to the COVID-19 situation, this class will be online for the entire duration
 ### Project Critiques
 
 Every project will end in a critique. All students in class are required to participate in these reviews and discussions and missing a critique for any reason prevents you from getting full credit on the project. During the critique, two student peers will have active roles in each critique:
-- The First Responder – The first responder will summarize/reframe the presenter’s project and provide initial feedback.
-- The Note Taker – The note taker will write down the group comments and write a digestible overview, which will be shared on a public document as a class resource. All students should participate in each discussion and provide feedback in the form of a neutral observation or value judgment. Please be respectful — our full attention will be given to the presenter.
+- The First Responder – The first responder will kick off our discussion and respond to the presenter&rsquo;s work.
+- The Note Taker – The note taker will summarize the group&rsquo;s comments and write a digestible overview, which will be shared on a public document as a class resource. All students should participate in each discussion and provide feedback in the form of a neutral observation or value judgment. Please be respectful — our full attention will be given to the presenter.
 
 ### Reading Responses
 
@@ -90,19 +90,7 @@ Throughout the semester we&rsquo;ll have assigned readings to compliment themes 
 
 - Adobe Suite
 - [Sketch](https://www.sketch.com/) or [Figma](https://www.figma.com/)
-
-### Class Sessions
-
-Each meeting will include one or more of the following:
-
-1. one-on-ones
-2. critique
-3. lecture
-4. reading discussions
-5. workshops
-6. group exercises
-7. in-class studio time
-8. guest lectures
+- A text editor (I use Sublime Text)
 
 
 ### Attendance

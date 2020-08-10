@@ -7,6 +7,7 @@ title: Resources
 
 ### Typography
 
+- [Type Foundry Directory](https://typefoundry.directory/)
 - [The Elements of Typographic Style Applied to the Web](http://webtypography.net/)
 - [What the Font](https://www.myfonts.com/WhatTheFont/)
 - [Pro Web Type](https://prowebtype.com/)
