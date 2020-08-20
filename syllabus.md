@@ -23,7 +23,7 @@ art20.labud.nyc
 ### Instructor
 
 Nika Simovich Fisher<br/>
-nika@labud.nyc
+nikasf@upenn.edu
 
 ### Objectives
 This course aims to familiarize students with the practice of graphic design across digital platforms, to develop an understanding of the evolution of the internet and its impact on visual culture, to understand the process of completing a project from research to presentation, and to acquaint them with the necessary design tools for a modern workflow. In this class, you&rsquo;ll learn to think critically about your own work and the world it exists in. You&rsquo;ll learn to develop your own research interests and a methodology of making graphic design.
