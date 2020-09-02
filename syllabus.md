@@ -29,10 +29,20 @@ nikasf@upenn.edu
 This course aims to familiarize students with the practice of graphic design across digital platforms, to develop an understanding of the evolution of the internet and its impact on visual culture, to understand the process of completing a project from research to presentation, and to acquaint them with the necessary design tools for a modern workflow. In this class, you&rsquo;ll learn to think critically about your own work and the world it exists in. You&rsquo;ll learn to develop your own research interests and a methodology of making graphic design.
 
 
+### Learning Outcomes
+- Learn to give and receive feedback effectively
+- Present your ideas clearly and visually
+- Use interaction to extend a narrative
+- Develop your perspective and visual style
+- Curate and create original content
+- Contextualize your work with the past and present
+- Develop a professional skillset
+- Begin to develop and understand a fluid and personal process
+
 
 ### Units
 
-#### Past – Community & Self Expression
+#### Past – Community & Self Expression (Weeks 1–8)
 
 - Net artists
 - Early social networks
@@ -40,7 +50,20 @@ This course aims to familiarize students with the practice of graphic design acr
 - Self publishing
 - Digital images
 
-#### Present – Systems & Responsibility
+#### In weeks 1-8 we will focus on:
+- Early net history
+- Setting up and starting a new project
+- Tools (code editor, inspector)
+- HTML/CSS basics
+- Digital design software
+- Digital images
+- Typography with HTML
+- CSS animations and selectors
+- Layouts, positioning
+- Presenting our Work
+
+
+#### Present – Systems & Responsibility (Weeks 9–15)
 
 - Systems and tools that already exist (Learning from them, differences and benefits of creating your own system vs using an existing one.)
 - Interfaces & prototypes
@@ -48,6 +71,17 @@ This course aims to familiarize students with the practice of graphic design acr
 - Censorship and regulation. Free speech?
 - Accessibility — what does this mean and how can you maintain a visual point of view without isolating audiences? When do you choose who the audience is?
 - Decentralized web
+
+#### In weeks 9–15 we will focus on:
+- Digital design process
+- Research
+- Multi-page systems
+- Programming using basic user interaction
+- Animations
+- Putting a website online
+- Creating custom content (videos, illustrations, etc.)
+- Documenting work (digital, print)
+
 
 ### Students Will Be Assessed On Three Primary Items:
 
@@ -85,6 +119,13 @@ Every project will end in a critique. All students in class are required to part
 ### Reading Responses
 
 Throughout the semester we&rsquo;ll have assigned readings to compliment themes and projects in the class. For each reading, we&rsquo;ll have an assigned discussion leader who will create a short presentation on the themes of the reading – please note, this is a design class, and the presentation should be both visual and informative. All other students are assigned the task of discussion participants and will provide a question or comment on a shared Dropbox Paper document prior to the start of class.
+
+#### If you're the discussion leader you'll
+- Prepare a presentation (PDF, Google Slides, Dropbox paper) that:
+- highlights the main themes of the reading
+- Explains the author&rsquo;s background and highlights their contribution to art, design, and/or the internet
+- contextualizes the reading. What else was going on in the world at the time of its writing?
+- Presents a discussion question to kick off our meeting
 
 ### Tools + Materials
 
