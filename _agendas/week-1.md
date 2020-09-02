@@ -7,7 +7,7 @@ summary: Intros, Hello World
 
 ### Monday, In Class
 
-- [Zoom link](https://drive.google.com/drive/folders/1Ojdizyz5MPnvvCnnqAGNkq9WOub_Uudo?usp=sharingE)
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - Introductions and website tour
 - [Syllabus](/syllabus)
 - [Code of conduct creation](https://paper.dropbox.com/doc/F20-UPenn-Art-of-the-Web-Code-of-Conduct--A60TOiTP123NowYVtez9ZEO1AQ-F7VcGHQ3fzTmnCSaJrxL3)
