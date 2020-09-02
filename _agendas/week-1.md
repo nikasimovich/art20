@@ -23,5 +23,6 @@ summary: Intros, Hello World
 - Complete activity: Hello World
 - Upload your hello world gif to our arena channel
 - Reading: [Olia Lialina discusses visibility and network portraiture on the World Wide Web](https://www.artforum.com/interviews/olia-lialina-discusses-visibility-and-network-portraiture-on-the-world-wide-web-82591) and select presenter
+- Rest of class posts a [discussion comment, reflection, or question on our reading doc](https://paper.dropbox.com/doc/UPenn-Art-of-Web-F20-Reading-Reflections--A63e3kvDn~Ecm0HjnEsqgxxwAQ-RLgJeYS8OrsbvUNYrsRRT)
 
 ---
