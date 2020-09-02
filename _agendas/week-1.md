@@ -5,7 +5,7 @@ date_range:       09/02
 summary: Intros, Hello World
 ---
 
-### Monday, In Class
+### Wednesday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - Introductions and website tour
