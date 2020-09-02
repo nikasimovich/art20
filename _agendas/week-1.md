@@ -11,6 +11,7 @@ summary: Intros, Hello World
 - [Syllabus](/syllabus)
 - [Code of conduct creation](https://paper.dropbox.com/doc/F20-UPenn-Art-of-the-Web-Code-of-Conduct--A60TOiTP123NowYVtez9ZEO1AQ-F7VcGHQ3fzTmnCSaJrxL3)
 - [Slack URL](https://fall20artoftheweb.slack.com/)
+- Create [are.na](https://www.are.na/) account and [link everyone to the group](https://www.are.na/university-of-pennsylvania-art-of-the-web-fall-2020)
 - Go over homework
 - Students [upload work to homework drop](https://drive.google.com/drive/folders/1Ojdizyz5MPnvvCnnqAGNkq9WOub_Uudo?usp=sharing) and we view slideshows
 
