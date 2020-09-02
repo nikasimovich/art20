@@ -19,7 +19,7 @@ summary: Intros, Hello World
 
 ### Homework
 - NO CLASS ON MONDAY. Our next session is 09/09
-- Watch asynchronous video: What is a gif and how to make one
+- [Review asynchronous notes: Gifs 101](https://paper.dropbox.com/doc/GIFS-101--A60iRc0JBLuk3FeEGh~JqNVYAQ-xZsnAlXPM4FWaWCXelHPm)
 - Complete activity: Hello World
 - Upload your hello world gif to our arena channel
 - Reading: [Olia Lialina discusses visibility and network portraiture on the World Wide Web](https://www.artforum.com/interviews/olia-lialina-discusses-visibility-and-network-portraiture-on-the-world-wide-web-82591) and select presenter
