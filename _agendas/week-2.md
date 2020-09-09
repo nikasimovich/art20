@@ -8,7 +8,7 @@ summary: Brief history of internet, What is a critique, Local programming and HT
 ### Wednesday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
-- Selena presents about Olia Lialina and we discuss the reading
+- Selina presents about Olia Lialina and we discuss the reading
 - [Today's Notes](https://paper.dropbox.com/doc/Penn-Week-2-Brief-History-of-the-Internet-Critique-Local-Programming--A7RxFLmipIQTxLnN3N7H5a1sAQ-a1SsqTIeD3gk3L0ApnR6h)
 - Brief history of internet
 - How to critique. Offline group critique.
