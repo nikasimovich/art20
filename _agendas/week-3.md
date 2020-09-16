@@ -5,7 +5,7 @@ date_range:       09/14
 summary: Net art discussions, HTML review, CSS intro, "Poor" Images
 ---
 
-### Tuesday, In Class
+### Wednesday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - [Today's Notes](https://paper.dropbox.com/doc/Penn-Week-3-Image-Sets-and-CSS-Intro--A7ugDru5GPqS7rGjDVT1X7NwAQ-BvEibCawqyKxoKmMvtshq)
@@ -17,6 +17,7 @@ summary: Net art discussions, HTML review, CSS intro, "Poor" Images
 - Finish your interview activity
 - Develop a set of 10 images for your 2020 series and put them into an are.na channel that we can look at. You can link that channel to [our parent folder](https://www.are.na/university-of-pennsylvania-art-of-the-web-fall-2020/2020-draft). Consider how you can create a visual system out of the set.
 
+---
 
 ### Monday, In Class
 
