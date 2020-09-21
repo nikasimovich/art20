@@ -7,7 +7,7 @@ summary: Web typography, CSS continued, Image series
 
 ### Monday, In Class
 
-- [Zoom link](https://paper.dropbox.com/doc/Penn-Week-4-Group-Activities--A8DwJMkEIeVVSLYst8dmKv54AQ-gtthSM6JeCGjSTrxFyo68)
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - [Today's Notes](https://paper.dropbox.com/doc/Week-4--A8DwJMkEIeVVSLYst8dmKv54AQ-gtthSM6JeCGjSTrxFyo68)
 - Small group activities day: type activity review; image demo; working on homework.
 
