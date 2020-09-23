@@ -2,8 +2,21 @@
 title:            Week 4
 start_date:       2020-09-14 00:00:00 -0500
 date_range:       09/21
-summary: Web typography, CSS continued, Image series
+summary: Web typography, CSS continued, Image series, Uploading work to GitHub
 ---
+
+### Wednesday, In Class
+
+- We are not meeting as a group today! Make sure to view our class notes.
+- [Today's Notes](https://paper.dropbox.com/doc/Penn-Week-4-Individual-Meetings-and-Independent-Work-Day--A8LncX_OeuAeyLeJSGgHszg6AQ-hIBUwnISKQoerhrvo6YZH)
+- Individual reviews of project progress with optional Zoom time, CSS Positioning, uploading work to github
+
+### Homework
+- Complete your project. It should be online and hosted on GitHub with a url ready to share at the start of class!
+
+---
+
+
 
 ### Monday, In Class
 
