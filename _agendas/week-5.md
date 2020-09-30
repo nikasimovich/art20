@@ -8,6 +8,7 @@ summary: 2020 Critique, Coding from Life
 ### Wednesday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today's Notes](https://paper.dropbox.com/doc/Coding-From-Life--A8mW~it2Zfw8STwmS9khjNGWAQ-15kPGT9U5iA1eGwV1mXIo)
 - Sarah M. presents 2020 Project (1r: Selina, N: Victoria)
 - Coding from Life demo and workshop. Coding from Life is due at the end of class.
 - Receive programming help and comments on yourr 2020 projects.
