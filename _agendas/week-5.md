@@ -16,6 +16,7 @@ summary: 2020 Critique, Coding from Life
 ### Homework
 - Read through [Fan Page](https://art20.labud.nyc/projects/fanpage)
 - Brainstorm three different ideas for the focus of your fan page (Example: Martians, Taylor Swift,  Jello). For each idea, write two short paragraphs – the first will describe the person/object in as much descriptive language as possible but not include any opinions. The second will explain your interst in this person/thing and why they deserve a fan page. For each of your three ideas, also include 5-10 images that communicate the idea. These items can be saved in an are.na channel or a shareable document of your choice.
+
 ---
 
 ### Monday, In Class
