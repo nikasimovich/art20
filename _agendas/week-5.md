@@ -11,7 +11,7 @@ summary: 2020 Critique, Coding from Life
 - [Today's Notes](https://paper.dropbox.com/doc/Coding-From-Life--A8mW~it2Zfw8STwmS9khjNGWAQ-15kPGT9U5iA1eGwV1mXIo)
 - Sarah M. presents 2020 Project (1r: Selina, N: Victoria)
 - Coding from Life demo and workshop. Coding from Life is due at the end of class.
-- Receive programming help and comments on yourr 2020 projects.
+- Receive programming help and comments on your 2020 projects.
 
 ### Homework
 - Read through [Fan Page](https://art20.labud.nyc/projects/fanpage)
