@@ -2,7 +2,7 @@
 title:            Week 6
 start_date:       2020-09-28 00:00:00 -0500
 date_range:       10/05
-summary: Design process – concepts, Deconstructing ideas, Site Architecture, Hovering
+summary: Design process – concepts, Deconstructing ideas, Site Architecture
 ---
 
 ### Wednesday, In Class
