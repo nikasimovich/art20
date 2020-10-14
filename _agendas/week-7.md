@@ -16,7 +16,7 @@ summary: Hovering, Animations
 
 
 ### Homework
-- Fan page – Project is due one week from today! Make progress and start programming. I'm going to help you with your code on Monday.
+- Fan page – Project is due on 10/26! Make progress and start programming. I'm going to help you with your code on Monday.
 - Reading presentation. Katie will present on [The Tyranny of Terrazzo – Will the Millenial Aesthetic Ever End?](https://www.thecut.com/2020/03/will-the-millennial-aesthetic-ever-end.html) and the rest of us will write a [reading response](https://paper.dropbox.com/doc/UPenn-Art-of-Web-F20-Reading-Reflections--A9BnMxyEDyo2LlvvuxNoUNswAQ-RLgJeYS8OrsbvUNYrsRRT).
 
 ---
