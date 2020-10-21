@@ -5,6 +5,21 @@ date_range:       10/19
 summary: Navigation, Fan Page development
 ---
 
+### Wednesday, In Class
+
+- [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
+- [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-8--A95bioxhg4YMTAZpuawaghpaAQ-YsE7XNhAp0wztJ6eZotyf)
+- We&rsquo;ll look at a few navigation examples and then we&rsquo;ll have a work day with meetings (Zoom or Slack)
+
+
+### Homework
+- Fan page – Due on Monday! Must be online and ready to present at the start of class.
+
+
+--- 
+
+
+
 ### Monday, In Class
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
