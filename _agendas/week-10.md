@@ -1,6 +1,6 @@
 ---
 title:            Week 10
-start_date:       2020-10-12 00:00:00 -0500
+start_date:       2020-11-01 00:00:00 -0500
 date_range:       11/02
 summary: Mobile design considerations, Midterm meetings
 ---
