@@ -13,7 +13,7 @@ summary: Mobile design considerations, Midterm meetings
 
 ### Homework
 - Begin working on your research presentation. View today&rsquo;s notes for information. Due Wednesday.
-- Watch [BuzzFeed CEO Jonah Peretti on Free Speech & the Internet Age](https://www.pbs.org/wnet/amanpour-and-company/video/buzzfeed-ceo-jonah-peretti-on-free-speech-the-internet-age/) and write a discussion question. Brynn is the discussion leader!
+- Watch [BuzzFeed CEO Jonah Peretti on Free Speech & the Internet Age](https://www.pbs.org/wnet/amanpour-and-company/video/buzzfeed-ceo-jonah-peretti-on-free-speech-the-internet-age/) and write a [discussion question](https://paper.dropbox.com/doc/UPenn-Art-of-Web-F20-Reading-Reflections--A~zGPSMmXjciVTGdagBtyVYOAQ-RLgJeYS8OrsbvUNYrsRRT). Brynn is the discussion leader!
 
 
 --- 
