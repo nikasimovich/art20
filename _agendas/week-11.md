@@ -8,6 +8,7 @@ summary: Media queries, Vanilla javascript, Project development
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Penn-Week-11-Media-Queries-Javascript-Introduction--A_F2JWAC2p4wBqEtBsn20UiAAQ-GYB3gPzxFssE10h7zyJR8)
+- Hear from Brynn and discuss Free Speech & the Internet Age video
 - Media queries, vanilla javascript intro, in class activity
 
 
