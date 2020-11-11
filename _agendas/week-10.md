@@ -4,6 +4,7 @@ start_date:       2020-11-01 00:00:00 -0500
 date_range:       11/02
 summary: Mobile design considerations, Midterm meetings
 ---
+
 ### Wednesday, In Class
 
 - [Zoom link – only for individual meetings, we are not meeting as a group](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
