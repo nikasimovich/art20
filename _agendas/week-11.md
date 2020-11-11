@@ -14,7 +14,7 @@ summary: Media queries, Vanilla javascript, Project development
 
 
 ### Homework
-- Reading: [Glitching the Master’s House: Legacy Russell and Momtaza Mehri in Conversation](https://www.frieze.com/article/glitching-masters-house-legacy-russell-and-momtaza-mehri-conversation), Victoria is the discussion leader.
+- Reading: [Glitching the Master’s House: Legacy Russell and Momtaza Mehri in Conversation](https://www.frieze.com/article/glitching-masters-house-legacy-russell-and-momtaza-mehri-conversation), Victoria is the discussion leader. Everyone else writes a [discussion question.](https://paper.dropbox.com/doc/UPenn-Art-of-Web-F20-Reading-Reflections--A~zGPSMmXjciVTGdagBtyVYOAQ-RLgJeYS8OrsbvUNYrsRRT)
 - Continue working on your Helpful App. Based on today&rsquo;s feedback, create a short presentation that highlights: a name for the app, a logo if appropriate, the tone of voice of the app (this can be a few adjectives and then examples in the screens), as well as two distinct visual directions. For each direction, present visual research and creative direction and design three pages from your wireframes. Consider how much variation you can achieve while still feeling appropriate for the overall theme. 
 
 --- 
