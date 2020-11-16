@@ -15,7 +15,7 @@ summary: Project development, Accessibility
 
 
 ### Homework
-- Based on today&rsquos;s feedback, pick one design direction to refine and apply it to about 5 screens. Make sure to consider your navigation and incorporate it into the design.
+- Based on today&rsquo;s feedback, pick one design direction to refine and apply it to about 5 screens. Make sure to consider your navigation and incorporate it into the design.
 - Reading [Owning Ethics: Corporate Logics, Silicon Valley, and the Institutionalization of Ethics](https://art20.labud.nyc/assets/readings/ethics.pdf) – Sonia is the discussion leader, everyone else responds [here](https://paper.dropbox.com/doc/UPenn-Art-of-Web-F20-Reading-Reflections--A_jt9MkzIHNZBy4pml3J8gKWAQ-RLgJeYS8OrsbvUNYrsRRT)
 
 --- 
