@@ -2,7 +2,7 @@
 title:            Week 11
 start_date:       2020-11-01 00:00:00 -0500
 date_range:       11/09
-summary: Media queries, Vanilla javascript, Project development
+summary: Media queries, Vanilla JavaScript, Project development
 ---
 
 ### Wednesday, In Class
