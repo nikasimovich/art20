@@ -18,6 +18,6 @@ summary: Accessibility
 ### Homework
 - Prepare questions for our guest, [Shivam Sinha](https://www.helloshivam.com/)
 - Reading/Video [Community and Accessibility Online](https://datasociety.net/library/community-and-accessibility-online/) – Michelle is the discussion leader, everyone else responds [here](https://paper.dropbox.com/doc/UPenn-Art-of-Web-F20-Reading-Reflections--A_jt9MkzIHNZBy4pml3J8gKWAQ-RLgJeYS8OrsbvUNYrsRRT)
-- Have a complete draft of your project presentation for Monday. Project is due 12/02
+- Have a complete draft of your project presentation for Monday. Project is due 12/02. Your presentation should be designed at a 16:9 aspect ratio!
 
 --- 
