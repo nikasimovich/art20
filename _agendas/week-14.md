@@ -14,6 +14,7 @@ summary: Helpful App Wrap Up and Critique
 
 ### Homework
 - Reading: Xin presents on [The Hidden Life of an Amazon User – Joana Moll](https://branch.climateaction.tech/2020/09/25/the-hidden-life-of-an-amazon-user/) and everyone else writes a [response](https://paper.dropbox.com/doc/UPenn-Art-of-Web-F20-Reading-Reflections--A_jt9MkzIHNZBy4pml3J8gKWAQ-RLgJeYS8OrsbvUNYrsRRT)
+- Work on your [final project](projects/final) class homepage
 
 ---
 
