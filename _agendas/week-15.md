@@ -17,6 +17,6 @@ summary: Guest presenter, web sustainability, final presentations
 
 
 ### Homework
-- Complete your jQuery clock and [final project](projects/final) and come to class on time, ready to share
+- Complete your jQuery clock and [final project](../projects/final) and come to class on time, ready to share
 
 --- 
