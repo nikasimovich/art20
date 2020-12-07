@@ -9,7 +9,7 @@ summary: Helpful App Wrap Up and Critique
 
 - [Zoom link](https://zoom.us/j/7047994536?pwd=RThBZ0oyWHd5M2RZcmFNQUVwUFJHUT09)
 - [Today&rsquo;s Notes](https://paper.dropbox.com/doc/Helpful-App-Critique--BAgttZO_TFdCDLL5gq5iHVZqAQ-GoLAJIocN8u4nmtDAqCDR)
-- Helpful App critique
+- Helpful App critique day
 
 
 ### Homework
