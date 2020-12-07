@@ -8,7 +8,7 @@ index:            6
 ### Overview
 For our final assessment, let&rsquo;s put everything we&rsquo;ve learned together and create a student homepage that houses all of the work we&rsquo;ve done.
 
-Your student homepage should be your main GitHub index. You should develop a custom visual language for the site experience that feels representational to yourself and to the work that you developed.
+You should develop a custom visual language for the site experience that feels representational to yourself and to the work that you developed.
 
 The only requirement is that it should be responsive (work when you resize the browser) and contain working links to all of the activities and projects we&rsquo;ve done (a master list will be provided).
 
